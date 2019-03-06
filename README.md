@@ -1,15 +1,16 @@
 ![CF](http://i.imgur.com/7v5ASc8.png) LAB
 =================================================
 
-## Project Name
+## Lab 00
 
-### Author: Student/Group Name
+### Author: Fletcher LaRue
 
 ### Links and Resources
-* [repo](http://xyz.com)
-* [travis](http://xyz.com)
-* [back-end](http://xyz.com)
-* [front-end](http://xyz.com)
+[![Build Status](https://www.travis-ci.com/asdFletcher/00-deployment.svg?branch=master)](https://www.travis-ci.com/asdFletcher/00-deployment)
+
+* [repo](https://github.com/asdFletcher/00-deployment)
+* [travis](https://www.travis-ci.com/asdFletcher/00-deployment)
+* [heroku](https://lab00-401.herokuapp.com/)
 
 ### Modules
 #### `modulename.js`
@@ -23,7 +24,7 @@ Usage Notes or examples
 
 ### Setup
 #### `.env` requirements
-* `PORT` - Port Number
+* `PORT` - Defined in index.js
 * `MONGODB_URI` - URL to the running mongo instance/db
 
 #### Running the app
